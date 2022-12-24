@@ -1,0 +1,579 @@
+{
+	"schedule": [
+
+		{
+			"date": " 06-Jan-2023",
+			"teamOne": "Chattogram",
+			"teamTwo": "sylhet",
+			"flagOne": "Chattogram.png",
+			"flagTwo": "sylhet.png",
+			"group": "2.30 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{	"date": " 06-Jan-2023",
+			"teamOne": "Comilla",
+			"teamTwo": "Rangpur",
+			"flagOne": "comilla.png",
+			"flagTwo": "Rangpur.png",
+			"group": "7.15 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": " 07-Jan-2023",
+			"teamOne": "Dhaka",
+			"teamTwo": "Khulna",
+			"flagOne": "Dhaka.png",
+			"flagTwo": "Khulna.png",
+			"group": "2.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": " 07-Jan-2023",
+			"teamOne": "Barishal",
+			"teamTwo": "sylhet",
+			"flagOne": "Barishal.png",
+			"flagTwo": "sylhet.png",
+			"group": "7.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{	"date": " 09-Jan-2023",
+			"teamOne": "Comilla",
+			"teamTwo": "sylhet",
+			"flagOne": "comilla.png",
+			"flagTwo": "sylhet.png",
+			"group": "2.00 PM",
+			"venue": "Abu dhabi Cricket Stadium",
+			"time": ""
+		},
+		{
+			"date": " 09-Jan-2023",
+			"teamOne": "Chattogram",
+			"teamTwo": "Khulna",
+			"flagOne": "Chattogram.png",
+			"flagTwo": "Khulna.png",
+			"group": "7.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": " 10-Jan-2023",
+			"teamOne": "Barishal",
+			"teamTwo": "Rangpur",
+			"flagOne": "Barishal.png",
+			"flagTwo": "Rangpur.png",
+			"group": "2.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": " 10-Jan-2023",
+			"teamOne": "Dhaka",
+			"teamTwo": "sylhet",
+			"flagOne": "Dhaka.png",
+			"flagTwo": "sylhet.png",
+			"group": "7.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": " 13-Jan-2023",
+			"teamOne": "Chattogram",
+			"teamTwo": "Barishal",
+			"flagOne": "Chattogram.png",
+			"flagTwo": "Barishal.png",
+			"group": "2.30 PM",
+			"venue": "Chattogran",
+			"time": ""
+		},
+		{	"date": " 13-Jan-2023",
+			"teamOne": "Khulna",
+			"teamTwo": "Rangpur",
+			"flagOne": "Khulna.png",
+			"flagTwo": "Rangpur.png",
+			"group": "7.15 PM",
+			"venue": "Chattogran",
+			"time": ""
+		},
+		{
+			"date": " 14-Jan-2023",
+			"teamOne": "Comilla",
+			"teamTwo": "Barishal",
+			"flagOne": "comilla.png",
+			"flagTwo": "Barishal.png",
+			"group": "2.00 PM",
+			"venue": "Chattogran",
+			"time": ""
+		},
+		{
+			"date": " 14-Jan-2023",
+			"teamOne": "Chattogram",
+			"teamTwo": "Rangpur",
+			"flagOne": "Chattogram.png",
+			"flagTwo": "Rangpur.png",
+			"group": "7.00 PM",
+			"venue": "Chattogran",
+			"time": ""
+		},
+		{	"date": " 16-Jan-2023",
+			"teamOne": "Dhaka",
+			"teamTwo": "Sylhet",
+			"flagOne": "Dhaka.png",
+			"flagTwo": "sylhet.png",
+			"group": "2.00 PM",
+			"venue": "Chattogran",
+			"time": ""
+		},
+		{
+			"date": " 16-Jan-2023",
+			"teamOne": "Chattogram",
+			"teamTwo": "Comilla",
+			"flagOne": "Chattogram.png",
+			"flagTwo": "comilla.png",
+			"group": "7.00 PM",
+			"venue": "Chattogran",
+			"time": ""
+		},
+		{
+			"date": " 17-Jan-2023",
+			"teamOne": "Khulna",
+			"teamTwo": "Rangpur",
+			"flagOne": "Khulna.png",
+			"flagTwo": "Rangpur.png",
+			"group": "2.00 PM",
+			"venue": "Chattogran",
+			"time": ""
+		},
+		{	"date": " 17-Jan-2023",
+			"teamOne": "Comilla",
+			"teamTwo": "Sylhet",
+			"flagOne": "comilla.png",
+			"flagTwo": "sylhet.png",
+			"group": "7.00 PM",
+			"venue": "Chattogran",
+			"time": ""
+		},
+		{
+			"date": " 19-Jan-2023",
+			"teamOne": "Comilla",
+			"teamTwo": "Dhaka",
+			"flagOne": "comilla.png",
+			"flagTwo": "Dhaka.png",
+			"group": "2.00 PM",
+			"venue": "Chattogran",
+			"time": ""
+		},
+		{
+			"date": " 19-Jan-2023",
+			"teamOne": "Barishal",
+			"teamTwo": "Rangpur",
+			"flagOne": "Barishal.png",
+			"flagTwo": "Rangpur.png",
+			"group": "7.00 PM",
+			"venue": "Chattogran",
+			"time": ""
+		},
+		{	"date": " 20-Jan-2023",
+			"teamOne": "Chattogram",
+			"teamTwo": "Khulna",
+			"flagOne": "Chattogram.png",
+			"flagTwo": "Khulna.png",
+			"group": "2.30 PM",
+			"venue": "Chattogran",
+			"time": ""
+		},
+		{
+			"date": " 20-Jan-2023",
+			"teamOne": "Dhaka",
+			"teamTwo": "Barishal",
+			"flagOne": "Dhaka.png",
+			"flagTwo": "Barishal.png",
+			"group": "7.15 PM",
+			"venue": "Chattogran",
+			"time": ""
+		},
+		{
+			"date": "23-Jan-2023",
+			"teamOne": "Chattogram",
+			"teamTwo": "Rangpur",
+			"flagOne": "Chattogram.png",
+			"flagTwo": "Rangpur.png",
+			"group": "2.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": "23-Jan-2023",
+			"teamOne": "Comilla",
+			"teamTwo": "Dhaka",
+			"flagOne": "comilla.png",
+			"flagTwo": "Dhaka.png",
+			"group": "7.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": "24-Jan-2023",
+			"teamOne": "Barishal",
+			"teamTwo": "sylhet",
+			"flagOne": "Barishal.png",
+			"flagTwo": "sylhet.png",
+			"group": "2.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{	"date": "24-Jan-2023",
+			"teamOne": "Chattogram",
+			"teamTwo": "Dhaka",
+			"flagOne": "Chattogram.png",
+			"flagTwo": "Dhaka.png",
+			"group": "7.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": "27-Jan-2023",
+			"teamOne": "Sylhet",
+			"teamTwo": "Rangpur",
+			"flagOne": "sylhet.png",
+			"flagTwo": "Rangpur.png",
+			"group": "2.30 PM",
+			"venue": "Sylhet",
+			"time": ""
+		},
+		{
+			"date": "27-Jan-2023",
+			"teamOne": "Chattogram",
+			"teamTwo": "Barishal",
+			"flagOne": "Chattogram.png",
+			"flagTwo": "Barishal.png",
+			"group": "7.15 PM",
+			"venue": "Sylhet",
+			"time": ""
+		},
+		{	"date": "28-Jan-2023",
+			"teamOne": "Comilla",
+			"teamTwo": "Khulna",
+			"flagOne": "comilla.png",
+			"flagTwo": "Khulna.png",
+			"group": "2.00 PM",
+			"venue": "Sylhet",
+			"time": ""
+		},
+		{
+			"date": "28-Jan-2023",
+			"teamOne": "Chattogram",
+			"teamTwo": "sylhet",
+			"flagOne": "Chattogram.png",
+			"flagTwo": "sylhet.png",
+			"group": "7.00 PM",
+			"venue": "Sylhet",
+			"time": ""
+		},
+		{
+			"date": "30-Nov-2023",
+			"teamOne": "Dhaka",
+			"teamTwo": "Rangpur",
+			"flagOne": "Dhaka.png",
+			"flagTwo": "Rangpur.png",
+			"group": "2.00 PM",
+			"venue": "Sylhet",
+			"time": ""
+		},
+		{	"date": "30-Nov-2023",
+			"teamOne": "Khulna",
+			"teamTwo": "Sylhet",
+			"flagOne": "Khulna.png",
+			"flagTwo": "sylhet.png",
+			"group": "7.00 PM",
+			"venue": "Sylhet",
+			"time": ""
+		},
+		{
+			"date": "31-Nov-2023",
+			"teamOne": "Dhaka",
+			"teamTwo": "Barishal",
+			"flagOne": "Dhaka.png",
+			"flagTwo": "Barishal.png",
+			"group": "2.00 PM",
+			"venue": "Sylhet",
+			"time": ""
+		},
+		{
+			"date": "31-Nov-2023",
+			"teamOne": "Comilla",
+			"teamTwo": "Khulna",
+			"flagOne": "comilla.png",
+			"flagTwo": "Khulna.png",
+			"group": "7.00 PM",
+			"venue": "Sylhet",
+			"time": ""
+		},
+		{	"date": "03-Nov-2023",
+			"teamOne": "Barishal",
+			"teamTwo": "Khulna",
+			"flagOne": "Barishal.png",
+			"flagTwo": "Khulna.png",
+			"group": "2.30 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": "03-Nov-2023",
+			"teamOne": "Dhaka",
+			"teamTwo": "Rangpur",
+			"flagOne": "Dhaka.png",
+			"flagTwo": "Rangpur.png",
+			"group": "7.15 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": "04-Nov-2023",
+			"teamOne": "Chattogram",
+			"teamTwo": "Comilla",
+			"flagOne": "Chattogram.png",
+			"flagTwo": "comilla.png",
+			"group": "2.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": "04-Nov-2023",
+			"teamOne": "Barishal",
+			"teamTwo": "Khulna",
+			"flagOne": "Barishal.png",
+			"flagTwo": "Khulna.png",
+			"group": "7.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": "07-Nov-2023",
+			"teamOne": "Khulna",
+			"teamTwo": "Sylhet",
+			"flagOne": "Khulna.png",
+			"flagTwo": "sylhet.png",
+			"group": "2.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{	"date": "07-Nov-2023",
+			"teamOne": "Comilla",
+			"teamTwo": "Barishal",
+			"flagOne": "comilla.png",
+			"flagTwo": "Barishal.png",
+			"group": "7.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": "08-Nov-2023",
+			"teamOne": "Chattogram",
+			"teamTwo": "Dhaka",
+			"flagOne": "Chattogram.png",
+			"flagTwo": "Dhaka.png",
+			"group": "2.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": "08-Nov-2023",
+			"teamOne": "Sylhet",
+			"teamTwo": "Rangpur",
+			"flagOne": "sylhet.png",
+			"flagTwo": "Rangpur.png",
+			"group": "7.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{	"date": "10-Nov-2023",
+			"teamOne": "Comilla",
+			"teamTwo": "Rangpur",
+			"flagOne": "comilla.png",
+			"flagTwo": "Rangpur.png",
+			"group": "2.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{	"date": "10-Nov-2023",
+			"teamOne": "Dhaka",
+			"teamTwo": "Khulna",
+			"flagOne": "Dhaka.png",
+			"flagTwo": "Khulna.png",
+			"group": "7.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": "Eliminator 12-Nov-2023",
+			"teamOne": "TBC",
+			"teamTwo": "TBC",
+			"flagOne": "Sport.png",
+			"flagTwo": "Sport.png",
+			"group": "2.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": "1st Qualifier 12-Nov-2023",
+			"teamOne": "TBC",
+			"teamTwo": "TBC",
+			"flagOne": "Sport.png",
+			"flagTwo": "Sport.png",
+			"group": "7.00 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": "2st Qualifier 14-Nov-2023",
+			"teamOne": "TBC",
+			"teamTwo": "TBC",
+			"flagOne": "Sport.png",
+			"flagTwo": "Sport.png",
+			"group": "7.15 PM",
+			"venue": "Dhaka",
+			"time": ""
+		},
+		{
+			"date": "Final 16-Nov-2023",
+			"teamOne": "TBC",
+			"teamTwo": "TBC",
+			"flagOne": "Sport.png",
+			"flagTwo": "Sport.png",
+			"group": "7.15 PM",
+			"venue": "Dhaka",
+			"time": ""
+		}
+	],
+	"venues":[
+		{
+			"country" : "Bangladesh",
+			"city": "Dhaka",
+			"stadium": "Sher-e-Bangla National \nCricket Stadium",
+			"image" : "assets/venues/dhaka.jpeg"
+		},
+		{
+			"country" : "Bangladesh",
+			"city": "Chattogram",
+			"stadium": "Zahur Ahmed Chowdhury \nStadium",
+			"image" : "assets/venues/cha.jpg"
+		},
+		{
+			"country" : "Bangladesh",
+			"city": "Sylhet",
+			"stadium": "Sylhet International Cricket\n Stadium",
+			"image" : "assets/venues/syl.png"
+		}
+
+	],
+	"teams": [
+		{
+			"fullName" : "Dhaka Dominators",
+			"shortName" : "Dhaka",
+			"flag" : "assets/flags/Dhaka.png"
+		},
+		{
+			"fullName" : "Chattogram ",
+			"shortName" : "Chattogram",
+			"flag" : "assets/flags/Chattogram.png"
+		},
+		{
+			"fullName" : "Comilla Victorians",
+			"shortName" : "Comilla",
+			"flag" : "assets/flags/comilla.png"
+		},
+
+		{
+			"fullName" : "Fortune Barishal",
+			"shortName" : "Barishal",
+			"flag" : "assets/flags/Barishal.png"
+		},
+		{
+			"fullName" : "Khulna Tigers",
+			"shortName" : "Khulna",
+			"flag" : "assets/flags/Khulna.png"
+		},
+		{
+			"fullName" : "Sylhet Strikers",
+			"shortName" : "Sylhet",
+			"flag" : "assets/flags/sylhet.png"
+		},
+		{
+			"fullName" : "Rangpur Riders",
+			"shortName" : "Rangpur",
+			"flag" : "assets/flags/Rangpur.png"
+		}
+		
+	],
+	"history": [
+		{
+			"winner": "Dhaka",
+			"runnerUp": "Barisal",
+			"host": "South Africa",
+			"winnerFlag": "Dhaka.png",
+			"runnerUpFlag": "Barishal.png",
+			"year": "2012"
+		},
+		{
+			"winner": "Dhaka",
+			"runnerUp": "Chittagog",
+			"winnerFlag": "Dhaka.png",
+			"runnerUpFlag": "Chattogram.png",
+			"host": "England",
+			"year": "2012-13"
+		},
+		{
+			"winner": "Comilla",
+			"runnerUp": "Barisal",
+			"winnerFlag": "comilla.png",
+			"runnerUpFlag": "Barishal.png",
+			"host": "West Indies",
+			"year": "2015-16"
+		},
+		{
+			"winner": "Dhaka",
+			"runnerUp": "Rajshahi",
+			"winnerFlag": "Dhaka.png",
+			"runnerUpFlag": "Khulna.png",
+			"host": "Sri Lanka",
+			"year": "2016-17"
+		},
+		{
+			"winner": "Rangpur",
+			"runnerUp": "Dhaka",
+			"winnerFlag": "Rangpur.png",
+			"runnerUpFlag": "Dhaka.png",
+			"host": "Bangladesh",
+			"year": "2017-17"
+		},
+		{
+			"winner": "Comilla",
+			"runnerUp": "Dhaka",
+			"winnerFlag": "comilla.png",
+			"runnerUpFlag": "Dhaka.png",
+			"host": "India",
+			"year": "2018-19"
+		},
+
+		{
+			"winner": "Rajshahi",
+			"runnerUp": "Khulna",
+			"winnerFlag": "Khulna.png",
+			"runnerUpFlag": "Khulna.png",
+			"host": "Australia",
+			"year": "2019-20"
+		},
+		{
+			"winner": "Comilla",
+			"runnerUp": "Barishal",
+			"winnerFlag": "comilla.png",
+			"runnerUpFlag": "Barishal.png",
+			"host": "Australia",
+			"year": "202023-22"
+		}
+	]
+}
